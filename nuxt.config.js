@@ -15,8 +15,16 @@ export default {
         link: [
             { rel: 'icon', type: 'image/x-icon', href: '/icon.png' },
             {
+                rel: 'preconnect',
+                href: 'https://fonts.gstatic.com'
+            },
+            {
                 rel: 'stylesheet',
                 href: 'https://fonts.googleapis.com/css2?family=Exo+2:wght@500;600;700;800;900&display=swap'
+            },
+            {
+                rel: 'stylesheet',
+                href: 'https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&display=swap'
             },
         ]
     },

@@ -16,6 +16,7 @@ module.exports = {
         fontFamily: {
             sans: ['"Exo 2"', 'sans-serif'],
             code: ['"Fira Code"', 'sans-serif'],
+            title: ['"Caveat"', 'cursive'],
         },
         extend: {
             animation: {

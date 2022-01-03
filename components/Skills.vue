@@ -3,7 +3,7 @@
     <div class="max-w-screen-2xl mx-auto pt-28 pb-10 px-4 sm:pt-24 sm:px-6 md:pt-16 md:pb-16 lg:pt-28 lg:px-8 xl:pt-28">
       <div class="sm:text-center lg:text-left z-0">
         <span class="before:block before:absolute before:left-0 before:-bottom-3 before:h-2 before:w-10 before:bg-gray-500 dark:before:bg-indigo-100 before:rounded-full relative inline-block">
-          <span class="relative text-3xl font-semibold text-sky-600 my-3 font-mono">Skills</span>
+          <span class="relative text-4xl font-bold text-sky-600 my-3 font-title">Skills</span>
         </span>
       </div>
       <div class="flex flex-wrap items-center justify-center md:justify-center font-semibold text-white text-center pt-6 md:p-8">

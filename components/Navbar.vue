@@ -29,16 +29,16 @@
           </button>
         </div>
         <div class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
-          <div class="flex-shrink-0 flex items-center font-code cursor-pointer" @click="scrollOnly('#main')">
+          <div class="flex-shrink-0 flex items-center font-title cursor-pointer" @click="scrollOnly('#main')">
             <!-- <img class="block lg:hidden h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-mark-sky-600.svg" alt="Workflow"> -->
             <!-- <img class="hidden lg:block h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-logo-sky-600-mark-white-text.svg" alt="Workflow"> -->
             <div class="block lg:hidden">
-              <span class="font-bold text-2xl text-teal-500">Elfan</span>
-              <span class="font-bold text-2xl text-sky-600">Rodhian</span>
+              <span class="font-bold text-4xl text-teal-500">Elfan</span>
+              <span class="font-bold text-4xl text-sky-600">Rodhian</span>
             </div>
             <div class="hidden lg:block">
-              <span class="font-bold text-3xl text-teal-500">Elfan</span>
-              <span class="font-bold text-3xl text-sky-600">Rodhian</span>
+              <span class="font-bold text-4xl text-teal-500">Elfan</span>
+              <span class="font-bold text-4xl text-sky-600">Rodhian</span>
             </div>
           </div>
           <div class="hidden sm:block sm:ml-6">
@@ -139,7 +139,7 @@ export default {
       [].forEach.call(otherBtn, function(el) {
         el.classList.remove("shadow-lg", "shadow-neo-light", "dark:shadow-neo-dark", "dark:bg-gray-900");
       });
-      
+
       var elem = document.querySelector(element);
       elem.scrollIntoView({
         behavior: 'smooth'
