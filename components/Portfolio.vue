@@ -8,10 +8,10 @@
           </span>
         </span>
       </div>
-      <div class="w-full h-full">
-        <div class="w-full md:w-7/12 pt-24 m-auto">
-          <img src="~assets/portfolio/app-aladin.png" alt="" class="w-10/12 h-auto m-auto transition duration-200 hover:scale-110">
-          <h3 class="text-center text-3xl font-semibold text-red-500 my-3 font-mono">
+      <div class="w-full h-full md:flex justify-center">
+        <!-- <div class="w-full md:w-1/2 pt-24 mx-auto px-10">
+          <img src="~assets/portfolio/app-aladin-.png" alt="" class="w-10/12 h-auto m-auto transition duration-200 hover:scale-110">
+          <h3 class="text-center text-3xl font-semibold h-20 min-h-full text-red-500 my-3 font-mono">
             <span>Aladin (Atap, Lantai dan Dinding)</span>
           </h3>
           <p class="text-center text-gray-500 dark:text-blue-50 leading-8 text-xl">
@@ -21,10 +21,10 @@
             </span>
           </p>
           <div class="w-full md:w-1/2 h-1 mt-2 mx-auto rounded-full bg-red-500"></div>
-        </div>
-        <div class="w-full md:w-7/12 pt-24 m-auto">
-          <img src="~assets/portfolio/app-data.png" alt="" class="w-10/12 h-auto m-auto transition duration-200 hover:scale-110">
-          <h3 class="text-center text-3xl font-semibold text-green-400 my-3 font-mono">
+        </div> -->
+        <div class="w-full md:w-1/2 pt-24 mx-auto px-10">
+          <img src="~assets/portfolio/app-data-.png" alt="" class="w-10/12 h-auto m-auto transition duration-200 hover:scale-110">
+          <h3 class="text-center text-3xl font-semibold h-20 min-h-full text-green-400 my-3 font-mono">
             <span>Satu Data Bojonegoro</span>
           </h3>
           <p class="text-center text-gray-500 dark:text-blue-50 leading-8 text-xl">
@@ -34,9 +34,11 @@
           </p>
           <div class="w-full md:w-1/2 h-1 mt-2 mx-auto rounded-full bg-green-400"></div>
         </div>
-        <div class="w-full md:w-7/12 pt-24 m-auto">
-          <img src="~assets/portfolio/app-mpp.png" alt="" class="w-10/12 12-auto m-auto transition duration-200 hover:scale-110">
-          <h3 class="text-center text-3xl font-semibold text-green-600 my-3 font-mono">
+      </div>
+      <div class="w-full h-full md:flex justify-center">
+        <div class="w-full md:w-1/2 pt-24 mx-auto px-10">
+          <img src="~assets/portfolio/app-mpp-.png" alt="" class="w-10/12 12-auto m-auto transition duration-200 hover:scale-110">
+          <h3 class="text-center text-3xl font-semibold h-20 min-h-full text-green-600 my-3 font-mono">
             <span>MPP Bojonegoro</span>
           </h3>
           <p class="text-center text-gray-500 dark:text-blue-50 leading-8 text-xl">
@@ -46,9 +48,9 @@
           </p>
           <div class="w-full md:w-1/2 h-1 mt-2 mx-auto rounded-full bg-green-600"></div>
         </div>
-        <div class="w-full md:w-7/12 pt-24 m-auto">
-          <img src="~assets/portfolio/app-mrs.png" alt="" class="w-10/12 12-auto m-auto transition duration-200 hover:scale-110">
-          <h3 class="text-center text-3xl font-semibold text-teal-400 my-3 font-mono">
+        <!-- <div class="w-full md:w-1/2 pt-24 mx-auto px-10">
+          <img src="~assets/portfolio/app-mrs-.png" alt="" class="w-10/12 12-auto m-auto transition duration-200 hover:scale-110">
+          <h3 class="text-center text-3xl font-semibold h-20 min-h-full text-teal-400 my-3 font-mono">
             <span>SiPinter (Sistem Pantau Internal)</span>
           </h3>
           <p class="text-center text-gray-500 dark:text-blue-50 leading-8 text-xl">
@@ -57,7 +59,34 @@
             </span>
           </p>
           <div class="w-full md:w-1/2 h-1 mt-2 mx-auto rounded-full bg-teal-400"></div>
-        </div>
+        </div> -->
+      </div>
+      <div class="w-full h-full md:flex justify-center">
+        <!-- <div class="w-full md:w-1/2 pt-24 mx-auto px-10">
+          <img src="~assets/portfolio/app-siap-.png" alt="" class="w-10/12 12-auto m-auto transition duration-200 hover:scale-110">
+          <h3 class="text-center text-3xl font-semibold h-20 min-h-full text-teal-400 my-3 font-mono">
+            <span>SIAP Desa</span>
+          </h3>
+          <p class="text-center text-gray-500 dark:text-blue-50 leading-8 text-xl">
+            <span>
+              Internal Control Application - Risk Management - Inspectorate of Bojonegoro Regency
+            </span>
+          </p>
+          <div class="w-full md:w-1/2 h-1 mt-2 mx-auto rounded-full bg-teal-400"></div>
+        </div> -->
+        <div class="w-full md:w-1/2 pt-24 mx-auto px-10">
+          <img src="~assets/portfolio/app-kpob-.png" alt="" class="w-10/12 12-auto m-auto transition duration-200 hover:scale-110">
+          <h3 class="text-center text-3xl font-semibold h-20 min-h-full text-emerald-400 my-3 font-mono">
+            <span>K'POB</span>
+          </h3>
+          <p class="text-center text-gray-500 dark:text-blue-50 leading-8 text-xl">
+            <span>
+              Bojonegoro Sports Potential Card Application
+              An application for the bojonegoro community who have sports potential and want to register themselves to become athletes who make the name of Bojonegoro proud
+            </span>
+          </p>
+          <div class="w-full md:w-1/2 h-1 mt-2 mx-auto rounded-full bg-emerald-400"></div>
+        </div> 
       </div>
     </div>
   </div>

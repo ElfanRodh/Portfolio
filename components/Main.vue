@@ -36,8 +36,10 @@
         </p> -->
         <div class="my-8 sm:my-28 sm:flex sm:justify-center lg:justify-start">
           <div class="">
-            <a @click="scrollTo('#about', $event)" class="font-bold w-full flex items-center justify-center py-3 border border-transparent text-base font-medium rounded-2xl bg-blue-50 shadow-lg shadow-neo-light active:shadow-neo-light-focus dark:shadow-neo-dark dark:active:shadow-neo-dark-focus dark:bg-gray-900 text-indigo-700 md:py-4 md:text-lg md:px-10 cursor-pointer">
-              <!-- EXPLORE NOW -->
+            <a @click="scrollTo('#about', $event)" class="font-bold w-3/4 m-auto md:w-full flex items-center justify-center py-3 border border-transparent text-base font-medium rounded-2xl bg-blue-50 shadow-lg shadow-neo-light active:shadow-neo-light-focus dark:shadow-neo-dark dark:active:shadow-neo-dark-focus dark:bg-gray-900 text-indigo-700 md:py-4 md:text-lg md:px-10 cursor-pointer">
+              <span class="mr-5">
+                EXPLORE NOW
+              </span>
               <svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 13l-3 3m0 0l-3-3m3 3V8m0 13a9 9 0 110-18 9 9 0 010 18z" />
               </svg>

@@ -11,7 +11,7 @@
         <img class="w-3/5 md:w-2/5 h-full md:rounded-none rounded-full mx-auto align-middle hover:scale-110 duration-200" src="~/assets/img/about.png" alt="" >
         <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
           <div class="text-left mb-10">
-            <h3 class="text-3xl font-semibold text-teal-500 my-3 font-mono">
+            <h3 class="text-center md:text-left text-3xl font-semibold text-teal-500 my-3 font-mono">
               <span>M. Elfa Rodhian Putra</span>
             </h3>
             <p class="text-center md:text-left text-gray-500 dark:text-blue-50 leading-8 text-xl">
@@ -36,6 +36,13 @@
 
             <span class="font-bold text-blue-500">Age: </span>
             <span class="font-medium text-xl text-gray-500 dark:text-blue-50 block mb-2">{{ age }}</span>
+            
+            <span class="font-bold text-blue-500">Address: </span>
+            <span class="font-medium text-xl text-gray-500 dark:text-blue-50 block mb-2">
+              Desa Trucuk RT. 14 RW. 02 <br> 
+              Kecamatan Trucuk <br>
+              Kabupaten Bojonegoro <br>
+            </span>
           </div>
 
           <!-- <blockquote>
@@ -65,7 +72,7 @@
         </div>
       </figure>
       <div class="md:flex">
-        <div class="w-full md:w-1/2 px-3">
+        <div class="w-full md:w-4/12 px-3">
           <div class="pt-6 text-center md:text-left space-y-4">
             <div class="text-left mb-10">
               <h3 class="text-3xl font-semibold text-teal-500 my-3 font-mono inline-flex">
@@ -99,7 +106,7 @@
             </div>
           </div>
         </div>
-        <div class="w-full md:w-1/2 px-3">
+        <div class="w-full md:w-4/12 px-3">
           <div class="pt-6 text-center md:text-left space-y-4">
             <div class="text-left mb-10">
               <h3 class="text-3xl font-semibold text-indigo-500 my-3 font-mono inline-flex">
@@ -126,6 +133,54 @@
                   </span>
                 </p>
                 <div class="w-full md:w-1/2 h-1 mt-2 rounded-full bg-indigo-500"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="w-full md:w-4/12 px-3">
+          <div class="pt-6 text-center md:text-left space-y-4">
+            <div class="text-left mb-10">
+              <h3 class="text-3xl font-semibold text-blue-500 my-3 font-mono inline-flex">
+                <span>
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
+                  </svg>
+                </span>
+                <span class="ml-2">
+                  Certificates
+                </span>
+              </h3>
+              <div class="py-2">
+                <p class="text-gray-500 dark:text-blue-50 leading-8 text-xl flex">
+                  <span class="w-5/5 md:w-4/5">
+                    2022 - Dart & Flutter Development Bootcamp: Find House App
+                  </span>
+                </p>
+                <div class="w-full md:w-1/2 h-1 mt-2 rounded-full bg-blue-500"></div>
+              </div>
+              <div class="py-2">
+                <p class="text-gray-500 dark:text-blue-50 leading-8 text-xl flex">
+                  <span class="w-5/5 md:w-4/5">
+                    2018 - Workshop Internet of Things
+                  </span>
+                </p>
+                <div class="w-full md:w-1/2 h-1 mt-2 rounded-full bg-blue-500"></div>
+              </div>
+              <div class="py-2">
+                <p class="text-gray-500 dark:text-blue-50 leading-8 text-xl flex">
+                  <span class="w-5/5 md:w-4/5">
+                    2018 - IC3 Digital Literacy Certification
+                  </span>
+                </p>
+                <div class="w-full md:w-1/2 h-1 mt-2 rounded-full bg-blue-500"></div>
+              </div>
+              <div class="py-2">
+                <p class="text-gray-500 dark:text-blue-50 leading-8 text-xl flex">
+                  <span class="w-5/5 md:w-4/5">
+                    2018 - Pembuatan Aplikasi Mobile Berbasis Database
+                  </span>
+                </p>
+                <div class="w-full md:w-1/2 h-1 mt-2 rounded-full bg-blue-500"></div>
               </div>
             </div>
           </div>

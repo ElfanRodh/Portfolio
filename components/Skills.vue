@@ -8,7 +8,7 @@
       </div>
       <div class="flex flex-wrap items-center justify-center md:justify-center font-semibold text-white text-center pt-6 md:p-8">
         <div class="p-2 m-4 bg-blue-50 shadow-lg shadow-neo-light active:shadow-neo-light-focus dark:shadow-neo-dark dark:active:shadow-neo-dark-focus dark:bg-gray-900 rounded-2xl transition duration-200 hover:scale-110 w-32">
-          <img src="https://assets.website-files.com/5d8a2888296e91abbdcb65f0/5dc23b7673f2302766ce6534_HTML%205.png" alt="HTML 5" class="w-12 h-12 m-auto rounded-xl"> 
+          <img src="https://assets.website-files.com/5d8a2888296e91abbdcb65f0/5dc23b7673f2302766ce6534_HTML%205.png" alt="HTML 5" class="w-12 h-12 m-auto rounded-xl active:scale-95"> 
           <div class="pt-4 text-xs md:text-sm text-gray-500 hover:text-gray-900 dark:text-gray-200 dark:hover:text-gray-400">HTML</div>
           <!-- <div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700 mt-2 text-center">
             <div class="bg-sky-600 h-2.5 rounded-full" style="width: 95%">
