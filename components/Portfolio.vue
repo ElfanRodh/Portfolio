@@ -23,6 +23,18 @@
           <div class="w-full md:w-1/2 h-1 mt-2 mx-auto rounded-full bg-red-500"></div>
         </div> -->
         <div class="w-full md:w-1/2 pt-24 mx-auto px-10">
+          <img src="~assets/portfolio/app-sibantu-.png" alt="" class="w-10/12 h-auto m-auto transition duration-200 hover:scale-110">
+          <h3 class="text-center text-3xl font-semibold h-20 min-h-full text-red-500 my-3 font-mono">
+            <span>SIBantu (Sistem Informasi Bantuan)</span>
+          </h3>
+          <p class="text-center text-gray-500 dark:text-blue-50 leading-8 text-xl">
+            <span>
+              an information disclosure platform that allows people to register themselves as aid participants
+            </span>
+          </p>
+          <div class="w-full md:w-1/2 h-1 mt-2 mx-auto rounded-full bg-red-500"></div>
+        </div>
+        <div class="w-full md:w-1/2 pt-24 mx-auto px-10">
           <img src="~assets/portfolio/app-data-.png" alt="" class="w-10/12 h-auto m-auto transition duration-200 hover:scale-110">
           <h3 class="text-center text-3xl font-semibold h-20 min-h-full text-green-400 my-3 font-mono">
             <span>Satu Data Bojonegoro</span>
@@ -44,6 +56,18 @@
           <p class="text-center text-gray-500 dark:text-blue-50 leading-8 text-xl">
             <span>
               The Bojonegoro Regency Public Service Mall is an effort by the Bojonegoro Regency Government in providing fast and appropriate services to the community
+            </span>
+          </p>
+          <div class="w-full md:w-1/2 h-1 mt-2 mx-auto rounded-full bg-green-600"></div>
+        </div>
+        <div class="w-full md:w-1/2 pt-24 mx-auto px-10">
+          <img src="~assets/portfolio/app-sitabah-.png" alt="" class="w-10/12 12-auto m-auto transition duration-200 hover:scale-110">
+          <h3 class="text-center text-3xl font-semibold h-20 min-h-full text-green-600 my-3 font-mono">
+            <span>SiTabah</span>
+          </h3>
+          <p class="text-center text-gray-500 dark:text-blue-50 leading-8 text-xl">
+            <span>
+              GIS application for management and grouping of places of worship as well as administrators of places of worship in bojonegoro
             </span>
           </p>
           <div class="w-full md:w-1/2 h-1 mt-2 mx-auto rounded-full bg-green-600"></div>

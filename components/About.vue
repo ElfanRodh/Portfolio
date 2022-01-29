@@ -161,6 +161,14 @@
               <div class="py-2">
                 <p class="text-gray-500 dark:text-blue-50 leading-8 text-xl flex">
                   <span class="w-5/5 md:w-4/5">
+                    2021 - Speaker : Literasi Digital Nasional - Untuk Indonesia Makin Cakap Digital
+                  </span>
+                </p>
+                <div class="w-full md:w-1/2 h-1 mt-2 rounded-full bg-blue-500"></div>
+              </div>
+              <div class="py-2">
+                <p class="text-gray-500 dark:text-blue-50 leading-8 text-xl flex">
+                  <span class="w-5/5 md:w-4/5">
                     2018 - Workshop Internet of Things
                   </span>
                 </p>

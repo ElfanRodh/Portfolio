@@ -37,7 +37,7 @@
         <div class="my-8 sm:my-28 sm:flex sm:justify-center lg:justify-start">
           <div class="">
             <a @click="scrollTo('#about', $event)" class="font-bold w-3/4 m-auto md:w-full flex items-center justify-center py-3 border border-transparent text-base font-medium rounded-2xl bg-blue-50 shadow-lg shadow-neo-light active:shadow-neo-light-focus dark:shadow-neo-dark dark:active:shadow-neo-dark-focus dark:bg-gray-900 text-indigo-700 md:py-4 md:text-lg md:px-10 cursor-pointer">
-              <span class="mr-5">
+              <span class="mr-5 font-bold">
                 EXPLORE NOW
               </span>
               <svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24" stroke="currentColor">
