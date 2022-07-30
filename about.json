@@ -1,0 +1,38 @@
+[
+  {
+    "createdAt": "2022-07-29T13:08:58.052Z",
+    "name": "M. Elfa Rodhian Putra",
+    "firstName": "Elfan",
+    "lastName": "Rodhian",
+    "bio": "I'm a software engineer from Indonesia. \nI always looking for new challenges. \nI'm passionate about building beautiful, responsive, and accessible websites and applications.",
+    "region": "Indonesia",
+    "city": "Bojonegoro",
+    "dateOfBirth": "1996-03-24T00:00:00.000Z",
+    "address": "Desa Trucuk RT. 14 RW. 02\nKecamatan Trucuk\nKabupaten Bojonegoro",
+    "email": "elfanrodhian@gmail.com",
+    "phone": "6288226293823",
+    "secialMedia": {
+      "instagram": {
+        "username": "elfanrodh",
+        "name": "M. Elfa Rodhian Putra",
+        "url": "https://www.instagram.com/elfanrodh/"
+      },
+      "twitter": {
+        "username": "elfanrodh",
+        "name": "M. Elfa Rodhian Putra",
+        "url": "https://twitter.com/elfanrodh"
+      },
+      "facebook": {
+        "username": "elfanapoy",
+        "name": "M. Elfa Rodhian Putra",
+        "url": "https://www.facebook.com/elfanapoy"
+      },
+      "linkedin": {
+        "username": "elfanrodh",
+        "name": "M. Elfa Rodhian Putra",
+        "url": "https://www.linkedin.com/in/elfanrodh"
+      }
+    },
+    "id": "1"
+  }
+]

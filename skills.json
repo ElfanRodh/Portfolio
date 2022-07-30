@@ -1,0 +1,89 @@
+// 20220730123513
+// https://62e49d6c3c89b95396dcd06e.mockapi.io/api/portfolio/skills
+
+[
+  {
+    "createdAt": "2022-07-29T22:38:45.397Z",
+    "name": "HTML",
+    "image": "html.png",
+    "order": 1,
+    "id": "1"
+  },
+  {
+    "createdAt": "2022-07-29T15:09:38.559Z",
+    "name": "CSS",
+    "image": "css.png",
+    "order": 2,
+    "id": "2"
+  },
+  {
+    "createdAt": "2022-07-29T08:53:30.093Z",
+    "name": "Javascript",
+    "image": "js.png",
+    "order": 3,
+    "id": "3"
+  },
+  {
+    "createdAt": "2022-07-29T11:51:32.728Z",
+    "name": "MySQL",
+    "image": "mysql.png",
+    "order": 4,
+    "id": "4"
+  },
+  {
+    "createdAt": "2022-07-30T02:31:21.268Z",
+    "name": "PostgresSQL",
+    "image": "postgress.png",
+    "order": 5,
+    "id": "5"
+  },
+  {
+    "createdAt": "2022-07-29T21:33:48.259Z",
+    "name": "CodeIgniter",
+    "image": "codeigniter.png",
+    "order": 6,
+    "id": "6"
+  },
+  {
+    "createdAt": "2022-07-29T17:48:57.181Z",
+    "name": "Laravel",
+    "image": "laravel.png",
+    "order": 7,
+    "id": "7"
+  },
+  {
+    "createdAt": "2022-07-29T17:44:23.849Z",
+    "name": "Flutter",
+    "image": "flutter.png",
+    "order": 8,
+    "id": "8"
+  },
+  {
+    "createdAt": "2022-07-29T19:45:23.799Z",
+    "name": "Vue",
+    "image": "vue.png",
+    "order": 9,
+    "id": "9"
+  },
+  {
+    "createdAt": "2022-07-29T23:00:54.399Z",
+    "name": "Bootstrap",
+    "image": "bootstrap.png",
+    "order": 10,
+    "id": "10"
+  },
+  {
+    "createdAt": "2022-07-29T23:00:54.399Z",
+    "name": "Tailwind",
+    "image": "tailwind.png",
+    "order": 11,
+    "id": "11"
+  },
+  {
+    "createdAt": "2022-07-29T23:00:54.399Z",
+    "name": "Figma",
+    "image": "figma.png",
+    "order": 12,
+    "id": "12"
+  }
+]

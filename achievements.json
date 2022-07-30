@@ -1,0 +1,90 @@
+[
+  {
+    "createdAt": "2022-07-29T11:38:53.709Z",
+    "name": "State Polytechnic of Malang",
+    "yearStart": 2016,
+    "yearEnd": 2019,
+    "subtext": "Bachelor of Informatics Engineering",
+    "color": "teal-500",
+    "url": "",
+    "category": "education",
+    "id": "1"
+  },
+  {
+    "createdAt": "2022-07-30T04:34:28.441Z",
+    "name": "Community Academy of Bojonegoro",
+    "yearStart": 2014,
+    "yearEnd": 2016,
+    "subtext": "Bachelor of Informatics Engineering",
+    "color": "teal-500",
+    "url": "",
+    "category": "education",
+    "id": "2"
+  },
+  {
+    "createdAt": "2022-07-29T06:36:26.780Z",
+    "name": "Pengembangan Library Sistem Pemeringkat Otomatis Berbasis Kata Sifat",
+    "yearStart": 2019,
+    "yearEnd": 2019,
+    "subtext": "",
+    "color": "indigo-500",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=id&user=DDX4ay8AAAAJ&cstart=20&pagesize=80&alert_preview_top_rm=2&authuser=3&citation_for_view=DDX4ay8AAAAJ:qUcmZB5y_30C",
+    "category": "publication",
+    "id": "3"
+  },
+  {
+    "createdAt": "2022-07-29T16:27:30.649Z",
+    "name": "Dart & Flutter Development Bootcamp: Find House App",
+    "yearStart": 2022,
+    "yearEnd": 2022,
+    "subtext": "",
+    "color": "blue-500",
+    "url": "",
+    "category": "certificate",
+    "id": "4"
+  },
+  {
+    "createdAt": "2022-07-29T22:36:11.213Z",
+    "name": "Speaker : Literasi Digital Nasional - Untuk Indonesia Makin Cakap Digital",
+    "yearStart": 2021,
+    "yearEnd": 2021,
+    "subtext": "",
+    "color": "blue-500",
+    "url": "",
+    "category": "certificate",
+    "id": "5"
+  },
+  {
+    "createdAt": "2022-07-29T14:27:35.837Z",
+    "name": "Workshop Internet of Things",
+    "yearStart": 2018,
+    "yearEnd": 2018,
+    "subtext": "",
+    "color": "blue-500",
+    "url": "",
+    "category": "certificate",
+    "id": "6"
+  },
+  {
+    "createdAt": "2022-07-29T14:10:41.667Z",
+    "name": "IC3 Digital Literacy Certification",
+    "yearStart": 2018,
+    "yearEnd": 2018,
+    "subtext": "",
+    "color": "blue-500",
+    "url": "",
+    "category": "certificate",
+    "id": "7"
+  },
+  {
+    "createdAt": "2022-07-29T18:57:28.526Z",
+    "name": "Pembuatan Aplikasi Mobile Berbasis Database",
+    "yearStart": 2018,
+    "yearEnd": 2018,
+    "subtext": "",
+    "color": "blue-500",
+    "url": "",
+    "category": "certificate",
+    "id": "8"
+  }
+]
