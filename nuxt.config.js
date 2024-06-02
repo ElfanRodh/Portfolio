@@ -69,10 +69,10 @@ export default {
     },
   },
   generate: {
-    // dir: 'my-site'
+    dir: "my-site",
   },
-  //   target: "static",
-  //   ssr: true,
+  target: "static",
+  // ssr: true,
   axios: {
     baseURL: "https://62e49d6c3c89b95396dcd06e.mockapi.io/api/portfolio/",
   },

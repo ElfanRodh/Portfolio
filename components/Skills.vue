@@ -7,7 +7,8 @@
         <span
           class="before:block before:absolute before:left-0 before:-bottom-3 before:h-2 before:w-10 before:bg-gray-500 dark:before:bg-indigo-100 before:rounded-full relative inline-block"
         >
-          <span class="relative text-4xl font-bold text-sky-600 my-3 font-title"
+          <span
+            class="relative text-4xl lg:text-6xl font-bold text-teal-500 my-3 font-title"
             >Skills</span
           >
         </span>

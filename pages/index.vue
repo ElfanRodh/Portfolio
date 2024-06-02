@@ -5,28 +5,14 @@
     <Main />
     <About />
     <Skills />
+    <Experiences />
     <Portfolio />
     <Contact />
     <div class="fixed bottom-0 right-0 m-5">
       <div class="">
-        <a
-          id="btn-scroll"
-          @click="scrollTop"
-          class="transition-opacity font-bold hidden items-center justify-center p-3 border border-transparent text-base rounded-2xl bg-indigo-700 shadow-neo-blue active:shadow-neo-blue text-blue-50 md:text-lg cursor-pointer"
-        >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            class="h-6 w-6"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke="currentColor"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              d="M5 15l7-7 7 7"
-            />
+        <a id="btn-scroll" @click="scrollTop" class="transition-opacity font-bold hidden items-center justify-center p-3 border border-transparent text-base rounded-2xl bg-indigo-700 shadow-neo-blue active:shadow-neo-blue text-blue-50 md:text-lg cursor-pointer">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7" />
           </svg>
         </a>
       </div>
